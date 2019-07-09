@@ -74,7 +74,7 @@
 ## License
 _When using any design assets (Photos, Fonts, Icons etc.) from these resources, please make sure they are either Royalty Free or provide attribution as per the Creative Commons license. Copyrighted content should not be used without prior permission._
 
-This list is under CC0 license — feel free to share/reuse for your own event/hackathon.
+This list is under Unlicense/Public Domain license — feel free to share/reuse for your own event/hackathon.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
