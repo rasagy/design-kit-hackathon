@@ -71,6 +71,14 @@
 * [Awesome design resources](https://github.com/gztchan/awesome-design)
 * [Awesome web design resources](https://github.com/nicolesaidy/awesome-web-design)
 
-*_When using any design assets (Photos, Fonts, Icons etc.) please make sure they are either Royalty Free or provide attribution as per the Creative Commons license. Copyrighted content should not be used without prior permission._
+## License
+_When using any design assets (Photos, Fonts, Icons etc.) from these resources, please make sure they are either Royalty Free or provide attribution as per the Creative Commons license. Copyrighted content should not be used without prior permission._
 
-This collection of design resources was first built for the participants of the [Heroes vs Hackers Hackathon](http://heroesvshackers.com/) to be held in BSE Mumbai on 28th & 29th November, 2015. Updated sporadically, PRs welcome!
+This list is under CC0 license — feel free to share/reuse for your own event/hackathon.
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## How to contribute
+This collection of design resources was first built for the participants of the [Heroes vs Hackers Hackathon](http://heroesvshackers.com/) to be held in BSE Mumbai on 28th & 29th November, 2015.
+
+Updated sporadically by @rasagy, PRs welcome! Or feel free to [tweet to @rasagy](https://twitter.com/rasagy) to suggest a resource.
